@@ -70,12 +70,12 @@ Sim, para facil uso
 Semântica e Legibilidade
 
 O conteúdo está estruturado de forma semântica
-O uso de cabeçalhos (<h1>, <h2>, <h3>, ...), parágrafos (<p>) e listas (<ul>, <ol>) serve para estruturar os conteúdos na página de forma semântica e dão significado ao texto. Permite criar um nível hierárquico entre os conteúdos e que faz sentido quando lido sem estilos (CSS). A forma como os conteúdos são apresentados deve seguir uma hierarquia direta desde o item mais importante até ao item menos importante. Não podem ser saltados níveis hierárquicos. 
+O uso de cabeçalhos (h1, h2, h3, ...), parágrafos p e listas (ul, ol) serve para estruturar os conteúdos na página de forma semântica e dão significado ao texto. Permite criar um nível hierárquico entre os conteúdos e que faz sentido quando lido sem estilos (CSS). A forma como os conteúdos são apresentados deve seguir uma hierarquia direta desde o item mais importante até ao item menos importante. Não podem ser saltados níveis hierárquicos. 
 
 Sim, facil identificacao das opcões visuais na tela. 
 
 O idioma da página está indicado no HTML 
-Os screen-readers necessitam de saber em que linguagem está escrita a página para adaptarem a forma como vão ler os conteúdos. Por exemplo, se a página estiver em português e não for definido o idioma no HTML, o screen-reader vai usar um leitor inglês para ler texto em português, tornando-o impercetível. Isto é tão simples como adicionar o atributo lang="pt-PT" à tag <html> 
+Os screen-readers necessitam de saber em que linguagem está escrita a página para adaptarem a forma como vão ler os conteúdos. Por exemplo, se a página estiver em português e não for definido o idioma no HTML, o screen-reader vai usar um leitor inglês para ler texto em português, tornando-o impercetível. Isto é tão simples como adicionar o atributo lang="pt-PT" à tag html
 
 Sim,  para facilitar pessoas com deficiencia visua que utilizam configuracoes assistivas no seu dispositivo.
 
