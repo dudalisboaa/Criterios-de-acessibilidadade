@@ -16,6 +16,7 @@ Nunca devem ser usadas imagens para mostrar blocos de texto. Todos os blocos de 
 Sim para nao ficar um conteudo muito poluido visualmente.
 
 Formulários
+
 Todos os campos dos formulários têm uma <label> associada
 Todos os campos de preenchimento (input, select, textarea, etc) têm de ter uma label associada. As labels permitem que o título do campo seja clicável, aumentando a zona clicável nas checkboxes e radio-buttons e facilitando a leitura do formulário por tecnologias assistivas (ex: screen-reader) Para associar uma label a um campo, basta corresponder o atributo "for" da label com o "id" do input, ex:
 <label for="nome">Nome: </label><input id="nome" type="text" /> ou
@@ -32,7 +33,6 @@ O envio dos formulários é feito via input/button e não através de links e Ja
 Todos os formulários devem funcionar nativamente, ou seja, através do botão de submit. Os formulários nunca podem depender exclusivamente de JavaScript para funcionar. 
 
 Sim, para nao utilizar os textos do formulario reenderizados em JavaScript.
-
 
 Os erros nos formulários são indicados em texto e junto do campo que contém o erro
 As mensagens de erro devem estar indicadas junto aos campos que contêm o erro e não apenas no topo ou no final do formulário. Isto permite contextualizar melhor os erros e ajuda a perceber onde é que os utilizadores têm de os corrigir. 
