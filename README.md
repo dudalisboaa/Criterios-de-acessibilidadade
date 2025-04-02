@@ -12,6 +12,7 @@ Sim, porque pensando nas pessoas que utilizam configuracoes assistivas para nave
 
 Não são usadas imagens que contêm blocos de texto
 Nunca devem ser usadas imagens para mostrar blocos de texto. Todos os blocos de texto devem estar no formato texto e nunca dentro de uma imagem. Isto não só aumenta em várias vezes o peso da página, como torna esse conteúdo invisível para quem precisa de usar tecnologias assistivas. 
+
 Sim para nao ficar um conteudo muito poluido visualmente.
 
 Formulários
