@@ -24,7 +24,7 @@ Todos os campos de preenchimento (input, select, textarea, etc) têm de ter uma 
 
 Sim, label é essencial no campo de formulário e vai estar associada ao preenchimento dos atributos de login e cadastro.
 
-São usados e para agrupar os vários campos nos formulários
+São usados fieldsets e legend para agrupar os vários campos nos formulários
 Devem ser usados fieldsets para criar grupos de campos e organizar melhor os formulários. Cada grupo pode (e deve) ter um título, através da tag <legend>. 
 
 Sim, utilizado para o usuario identificar as informacoes necessarias.
